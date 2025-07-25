@@ -137,7 +137,8 @@ Emotion Peaks:
 ## 📜 License
 
 This project is licensed under the **Apache License**.\
-Feel free to fork, improve, and share it!
+![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+
 
 ---
 
